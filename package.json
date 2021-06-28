@@ -1,10 +1,10 @@
 {
-  "name": "@codepunkt/esm-binary-test",
+  "name": "@codepunkt/esm-binary-provide",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Christoph Werner <christoph@codepunkt.de>",
   "bin": {
-    "esm-binary-test": "bin/esm-binary-test.js"
+    "esm-binary-provide": "bin/esm-binary-provide.js"
   },
   "type": "module",
   "repository": {
@@ -13,9 +13,6 @@
   },
   "bugs": {
     "url": "https://github.com/codepunkt/esm-binary-test/issues"
-  },
-  "scripts": {
-    "start": "esm-binary-test"
   },
   "dependencies": {},
   "devDependencies": {}
