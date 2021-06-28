@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "Christoph Werner <christoph@codepunkt.de>",
   "bin": {
-    "esm-binary-provide": "bin/esm-binary-provide.js"
+    "esm-binary-provide": "bin/esm-binary-provide.mjs"
   },
   "type": "module",
   "repository": {
