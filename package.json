@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "Christoph Werner <christoph@codepunkt.de>",
   "bin": {
-    "test": "bin/esm-binary-test.js"
+    "esm-binary-test": "bin/esm-binary-test.js"
   },
   "type": "module",
   "repository": {
