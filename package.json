@@ -15,7 +15,7 @@
     "url": "https://github.com/codepunkt/esm-binary-test/issues"
   },
   "scripts": {
-    "start": "esm-binary-test",
+    "start": "esm-binary-test"
   },
   "dependencies": {},
   "devDependencies": {}
